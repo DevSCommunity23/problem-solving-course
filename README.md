@@ -4,6 +4,6 @@
 <h3>Presentation</h3>
 > https://prezi.com/view/qDFLoGfa1GaDeQO7hoPP/
 <h3>Intro Session</h3>
-> 
+> https://drive.google.com/file/d/1CT3t1YsXwGpisMp9If8xWWmfkOS0CLbv/view?usp=sharing
 <h3>First Session</h3>
 > https://drive.google.com/file/d/19aM_RrITgR_Ia1fdvJVH3YzgZab4u67B/view?usp=drivesdk
