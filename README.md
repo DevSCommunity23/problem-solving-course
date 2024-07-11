@@ -17,4 +17,9 @@ https://drive.google.com/file/d/1iBoKbZuyXCK5Xtl_WNhyIx-NgSru5WPK/view?usp=drive
 https://drive.google.com/file/d/1K--zCi0yuXkpokimbSiEQltBHU_BNnCx/view?usp=drivesdk
 <h3>Session 5:</h3>
 - part 1 : https://drive.google.com/file/d/1m27ZVb4o0o3xtfQb0SPy00bDMZ_FfVCJ/view?usp=drivesdk
+
 - part 2 : https://drive.google.com/file/d/1hKzj3tr5xEXCBdwVTaHEasn8ahqmI-ko/view?usp=drivesdk
+<h3>Session 6: Pointers</h3>
+- part 1 : https://drive.google.com/file/d/1_lz1IxzwhNtulKdQF-Xpy78Wr1np-0Up/view?usp=drive_link
+
+- part 2 : https://drive.google.com/file/d/1aQyE5DFcVtKdECnWXpkQsDBiW1bwbdqB/view?usp=drive_link
