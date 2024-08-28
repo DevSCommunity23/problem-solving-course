@@ -31,3 +31,10 @@ https://drive.google.com/file/d/1K--zCi0yuXkpokimbSiEQltBHU_BNnCx/view?usp=drive
 
 <h3>Session 8: Linked List</h3>
 https://drive.google.com/file/d/15pDqKAwacJ8vMKrJtwo7JOGZwYAsLB-8/view?usp=drive_link
+
+<h3>Session 9: Stack and Queue</h3>
+
+- part 1 :  https://drive.google.com/file/d/1GLMKik9ERgBbUSb9IEPV3dVvS68W0e1l/view?usp=drive_link
+
+- part 2 : https://drive.google.com/file/d/1Ok75DYxnekkptZN5pysU72dyluH3W4AA/view?usp=drive_lin
+
